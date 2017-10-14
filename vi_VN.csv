@@ -1511,7 +1511,7 @@ None,"Không cái nào",module,Magento_Catalog
 "Manage Categories","Quản lý danh mục",module,Magento_Catalog
 "You deleted the category.","Bạn đã xoá mục này.",module,Magento_Catalog
 "Something went wrong while trying to delete the category.","Một điều gì đó đã đi sai trong khi đang cố gắng để xóa mục này.",module,Magento_Catalog
-Categories,Nhóm,module,Magento_Catalog
+Categories,Danh mục,module,Magento_Catalog
 "Category is not available for requested store.","Mục không có sẵn cho các cửa hàng được yêu cầu.",module,Magento_Catalog
 "There was a category move error.","Đã có một lỗi di chuyển mục.",module,Magento_Catalog
 "You moved the category.","Bạn đã chuyển mục này.",module,Magento_Catalog
