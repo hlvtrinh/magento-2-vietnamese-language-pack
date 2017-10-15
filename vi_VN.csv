@@ -181,7 +181,7 @@ Item,"Sản phẩm",module,Magento_AdvancedCheckout
 Edit,"Chỉnh sửa",module,Magento_AdvancedCheckout
 "Remove item","Xóa sản phẩm",module,Magento_AdvancedCheckout
 "Products Requiring Attention","Products Requiring Attention",module,Magento_AdvancedCheckout
-"Add to Cart","Thêm vào giỏ hàng",module,Magento_AdvancedCheckout
+"Add to Cart","Mua ngay",module,Magento_AdvancedCheckout
 Sku,Sku,module,Magento_AdvancedCheckout
 File,Tệp,module,Magento_AdvancedCheckout
 "File extensions allowed: .csv","File extensions allowed: .csv",module,Magento_AdvancedCheckout
@@ -1261,7 +1261,7 @@ From,Từ,module,Magento_Bundle
 To,Đến,module,Magento_Bundle
 "Buy %1 with %2 discount each","Mua %1 được %2 nhận chiết khấu mỗi loại",module,Magento_Bundle
 "Go back to product details","Quay trở lại chi tiết sản phẩm",module,Magento_Bundle
-"Customize and Add to Cart","Tùy chỉnh và Thêm vào giỏ hàng",module,Magento_Bundle
+"Customize and Add to Cart","Tùy chỉnh và Mua ngay",module,Magento_Bundle
 "* Required Fields","* Vùng yêu cầu",module,Magento_Bundle
 "Your Customization","Tùy chỉnh của bạn",module,Magento_Bundle
 Availability,Availability,module,Magento_Bundle
@@ -1912,7 +1912,7 @@ Role,"Vai trò",module,Magento_Catalog
 "Compare Products","So sánh sản phẩm",module,Magento_Catalog
 "Print This Page","In Trang này",module,Magento_Catalog
 "Remove Product","Loại bỏ sản phẩm",module,Magento_Catalog
-"Add to Cart","Thêm vào giỏ",module,Magento_Catalog
+"Add to Cart","Mua ngay",module,Magento_Catalog
 "In stock","Còn trong kho",module,Magento_Catalog
 "Out of stock","Hết hàng",module,Magento_Catalog
 "Add to Wish List","Thêm vào danh sách yêu thích",module,Magento_Catalog
@@ -2296,7 +2296,7 @@ Stock,"Lưu kho",module,Magento_CatalogInventory
 "Category Permissions","Cấp phép nhóm",module,Magento_CatalogPermissions
 "Browsing Category","Duyệt nhóm",module,Magento_CatalogPermissions
 "Display Product Prices","Hiển thị giá sản phẩm",module,Magento_CatalogPermissions
-"Add to Cart","Thêm vào giỏ hàng",module,Magento_CatalogPermissions
+"Add to Cart","Mua ngay",module,Magento_CatalogPermissions
 "Yes, for Everyone","Vâng, cho mọi người",module,Magento_CatalogPermissions
 "Yes, for Specified Customer Groups","Yeah, cho các nhóm khách hàng được chỉ định",module,Magento_CatalogPermissions
 No,Không,module,Magento_CatalogPermissions
@@ -2581,7 +2581,7 @@ Websites,"Các trang web",module,Magento_CatalogStaging
 "Product Attribute","Thuộc tính sản phẩm",module,Magento_CatalogWidget
 SKU,"MÃ SẢN PHẨM",module,Magento_CatalogWidget
 "Please choose a condition to add.","Vui lòng chọn một điều kiện để thêm.",module,Magento_CatalogWidget
-"Add to Cart","Thêm vào giỏ",module,Magento_CatalogWidget
+"Add to Cart","Mua ngay",module,Magento_CatalogWidget
 "In stock","Còn trong kho",module,Magento_CatalogWidget
 "Out of stock","Hết hàng",module,Magento_CatalogWidget
 "Add to Wish List","Thêm vào danh sách yêu thích",module,Magento_CatalogWidget
@@ -5589,7 +5589,7 @@ View,"Hiển thị",module,Magento_GiftRegistry
 "Search By","Tìm kiếm theo",module,Magento_GiftRegistry
 "Please enter at least two letters.","Vui lòng nhập ít nhất hai chữ cái.",module,Magento_GiftRegistry
 "Unit Price","Đơn giá",module,Magento_GiftRegistry
-"Add to Cart","Thêm vào giỏ hàng",module,Magento_GiftRegistry
+"Add to Cart","Mua ngay",module,Magento_GiftRegistry
 "Gift Registry created at %store_name","Tạo Đăng ký quà tại %store_name",module,Magento_GiftRegistry
 "%name,","%name,",module,Magento_GiftRegistry
 "You have successfully created the new gift registry ""%registry_name"".","Bạn đã tạo thành công đăng ký Quà tặng mới ""% registry_name"".",module,Magento_GiftRegistry
@@ -6431,7 +6431,7 @@ Database,"Cơ sở dữ liệu",module,Magento_MediaStorage
 "You will see the order total before you submit the order.","Bạn sẽ thấy tổng đơn hàng trước khi bạn gửi đơn đặt hàng.",module,Magento_Msrp
 Price,Giá,module,Magento_Msrp
 "Actual Price","Giá thực tế",module,Magento_Msrp
-"Add to Cart","Thêm vào giỏ hàng",module,Magento_Msrp
+"Add to Cart","Mua ngay",module,Magento_Msrp
 "Minimum Advertised Price","Giá quảng cáo Tối thiểu",module,Magento_Msrp
 "Enable MAP","Cho phép MAP",module,Magento_Msrp
 "Display Actual Price","Hiển thị giá thực tế",module,Magento_Msrp
@@ -6539,7 +6539,7 @@ Name,Tên,module,Magento_MultipleWishlist
 Updated,"Đã cập nhật",module,Magento_MultipleWishlist
 "Wish List Items","Các sản phẩm trong danh sách yêu thích",module,Magento_MultipleWishlist
 "You must select items to add to the cart.","Bạn phải chọn sản phẩm để thêm vào giỏ hàng.",module,Magento_MultipleWishlist
-"Add to Cart","Thêm vào giỏ hàng",module,Magento_MultipleWishlist
+"Add to Cart","Mua ngay",module,Magento_MultipleWishlist
 Back,"Trở lại",module,Magento_MultipleWishlist
 "Add to:","Thêm vào:",module,Magento_MultipleWishlist
 "Create New Wish List","Tạo danh sách yêu thích mới",module,Magento_MultipleWishlist
@@ -8132,7 +8132,7 @@ Error,Lỗi,module,Magento_Reports
 "Show Report For:","Hiển thị các báo cáo cho:",module,Magento_Reports
 "All Websites","Tất cả trang Web",module,Magento_Reports
 "Recently Viewed","Xem gần đây",module,Magento_Reports
-"Add to Cart","Thêm vào giỏ hàng",module,Magento_Reports
+"Add to Cart","Mua ngay",module,Magento_Reports
 "In stock","Còn trong kho",module,Magento_Reports
 "Out of stock","Tạm hết hàng",module,Magento_Reports
 "Add to Wish List","Thêm vào danh sách yêu thích",module,Magento_Reports
@@ -9523,7 +9523,7 @@ Close,"Đóng lại",module,Magento_Sales
 "View All","Xem tất cả",module,Magento_Sales
 "Gift Message for This Order","Tin nhắn Quà tặng cho đơn đặt hàng này",module,Magento_Sales
 "Recently Ordered","Mới đặt hàng",module,Magento_Sales
-"Add to Cart","Thêm vào giỏ hàng",module,Magento_Sales
+"Add to Cart","Mua ngay",module,Magento_Sales
 Search,"Tìm kiếm",module,Magento_Sales
 "Credit memo for your %store_name order","Bản ghi nhớ tín dụng cho đơn đặt hàng %store_name",module,Magento_Sales
 "%name,","%name,",module,Magento_Sales
@@ -12520,7 +12520,7 @@ LocalizedException,"Yếu tố ngoại lệ cho bản địa",module,Magento_Wis
 "Add to Wish List","Thêm vào danh sách yêu thích",module,Magento_Wishlist
 "View Product","Xem sản phẩm",module,Magento_Wishlist
 Qty,"Số lượng",module,Magento_Wishlist
-"Add to Cart","Thêm vào giỏ hàng",module,Magento_Wishlist
+"Add to Cart","Mua ngay",module,Magento_Wishlist
 Availability,"Sẵn có",module,Magento_Wishlist
 "In stock","Còn trong kho",module,Magento_Wishlist
 "Out of stock","Hết hàng",module,Magento_Wishlist
