@@ -690,7 +690,7 @@ Attributes,"Thuộc tính",module,Magento_Backend
 "Package Extensions","Package Extensions",module,Magento_Backend
 Tools,"Công cụ",module,Magento_Backend
 "Web Setup Wizard","Web Setup Wizard",module,Magento_Backend
-Currency,"Ngoại tệ",module,Magento_Backend
+Currency,"Tiền tệ",module,Magento_Backend
 Communications,Communications,module,Magento_Backend
 Services,"Các Dịch Vụ",module,Magento_Backend
 Advanced,"Nâng Cao",module,Magento_Backend
@@ -1078,7 +1078,7 @@ Amount,"Số lượng",module,Magento_Braintree
 "Settlement Response Text","Settlement Response Text",module,Magento_Braintree
 "Refund Ids","Refund Ids",module,Magento_Braintree
 "Settlement Batch ID","Settlement Batch ID",module,Magento_Braintree
-Currency,"Ngoại tệ",module,Magento_Braintree
+Currency,"Tiền tệ",module,Magento_Braintree
 Country,"Quốc gia",module,Magento_BraintreeTwo
 "Allowed Credit Card Types","Các loại thẻ tín dụng được cho phép",module,Magento_BraintreeTwo
 "Add Rule","Thêm quy tắc",module,Magento_BraintreeTwo
@@ -1181,7 +1181,7 @@ Amount,"Số lượng",module,Magento_BraintreeTwo
 "Settlement Response Text","Settlement Response Text",module,Magento_BraintreeTwo
 "Refund Ids","Refund Ids",module,Magento_BraintreeTwo
 "Settlement Batch ID","Settlement Batch ID",module,Magento_BraintreeTwo
-Currency,"Ngoại tệ",module,Magento_BraintreeTwo
+Currency,"Tiền tệ",module,Magento_BraintreeTwo
 "Percent Discount","Phần trăm giảm giá",module,Magento_Bundle
 "-- Select --","- Chọn -",module,Magento_Bundle
 Dynamic,Dynamic,module,Magento_Bundle
@@ -3393,7 +3393,7 @@ System,"Hệ thống",module,Magento_CurrencySymbol
 "You applied the custom currency symbols.","Bạn áp dụng các biểu tượng tùy chỉnh thu.",module,Magento_CurrencySymbol
 "You must first configure currency options before being able to see currency rates.","Trước tiên, bạn phải cấu hình tùy chọn thu trước khi có thể xem tỷ giá tiền tệ.",module,Magento_CurrencySymbol
 "Old rate:","Giá cũ:",module,Magento_CurrencySymbol
-Currency,"Ngoại tệ",module,Magento_CurrencySymbol
+Currency,"Tiền tệ",module,Magento_CurrencySymbol
 [GLOBAL],"[Toàn hệ thống]",module,Magento_CustomAttributeManagement
 [WEBSITE],[WEBSITE],module,Magento_CustomAttributeManagement
 "[STORE VIEW]","[Chế độ xem cửa hàng]",module,Magento_CustomAttributeManagement
@@ -4522,7 +4522,7 @@ WARNING:,"Cảnh báo:",module,Magento_Directory
 "Country and Format Type combination should be unique","Kết hợp nước và các loại định dạng nên là duy nhất",module,Magento_Directory
 "Please correct the rates received","Xin vui lòng làm chính xác tỷ lệ nhận được",module,Magento_Directory
 "Please select a region, state or province.","Vui lòng chọn khu vực, bang hay tỉnh.",module,Magento_Directory
-Currency,"Ngoại tệ",module,Magento_Directory
+Currency,"Tiền tệ",module,Magento_Directory
 "Your current currency is: %1.","Đơn vị tiền tệ hiện tại là: %1.",module,Magento_Directory
 Continue,"Tiếp tục",module,Magento_Directory
 "Currency Update Warnings","Cảnh báo cập nhật tiền tệ",module,Magento_Directory
