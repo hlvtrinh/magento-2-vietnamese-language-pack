@@ -1922,7 +1922,7 @@ Compare,"So sánh",module,Magento_Catalog
 "Clear All","Xóa tất cả",module,Magento_Catalog
 Prev,Trước,module,Magento_Catalog
 Next,"Tiếp theo",module,Magento_Catalog
-"We can't find products matching the selection.","Chúng tôi không thể tìm thấy sản phẩm phù hợp với việc lựa chọn.",module,Magento_Catalog
+"We can't find products matching the selection.","Chúng tôi không thể tìm thấy sản phẩm phù hợp với tìm kiếm của bạn.",module,Magento_Catalog
 "Learn More","Tìm hiểu thêm",module,Magento_Catalog
 "Add to Compare","Thêm vào so sánh",module,Magento_Catalog
 "We found other products you might like!","Chúng tôi tìm thấy các sản phẩm khác, bạn có thể thích!",module,Magento_Catalog
