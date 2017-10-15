@@ -281,7 +281,7 @@ Retry,"Thử lại",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.","%1 mã (s) đã được lên lịch cập nhật.",module,Magento_AsynchronousOperations
 "%1 item(s) have been successfully updated.","%1 mã (s) đã được cập nhật thành công.",module,Magento_AsynchronousOperations
 "%1 item(s) failed to update","%1 thất bại để cập nhật mã (s)",module,Magento_AsynchronousOperations
-Details,"Chi tiết",module,Magento_AsynchronousOperations
+Details,"Mô tả sản phẩm",module,Magento_AsynchronousOperations
 "View Details","Xem chi tiết",module,Magento_AsynchronousOperations
 Dismiss,"Loại bỏ",module,Magento_AsynchronousOperations
 "Pending, in queue...","Đang chờ xử lý, trong hàng đợi...",module,Magento_AsynchronousOperations
@@ -2119,7 +2119,7 @@ Disable,"Vô hiệu hóa",module,Magento_Catalog
 Overview,"Tổng quan",module,Magento_Catalog
 "Skip to the end of the images gallery","Skip to the end of the images gallery",module,Magento_Catalog
 "Skip to the beginning of the images gallery","Skip to the beginning of the images gallery",module,Magento_Catalog
-Details,"Chi tiết",module,Magento_Catalog
+Details,"Mô tả sản phẩm",module,Magento_Catalog
 "Recently Compared","Recently Compared",module,Magento_Catalog
 "Add To Cart","Add To Cart",module,Magento_Catalog
 "Add To Compare","Add To Compare",module,Magento_Catalog
@@ -4220,7 +4220,7 @@ To,Đến,module,Magento_CustomerSegment
 Reports,"Báo cáo",module,Magento_CustomerSegment
 Customers,"Khách hàng",module,Magento_CustomerSegment
 "Viewing combined ""%1"" report from segments: %2.","Xem báo cáo kết hợp ""%1"" từ các phân đoạn: %2.",module,Magento_CustomerSegment
-Details,"Chi tiết",module,Magento_CustomerSegment
+Details,"Mô tả sản phẩm",module,Magento_CustomerSegment
 "The Customer Segment data has been refreshed.","Dữ liệu phân đoạn khách hàng đã được làm mới.",module,Magento_CustomerSegment
 Union,"Liên minh",module,Magento_CustomerSegment
 Intersection,"Đoan giao nhau",module,Magento_CustomerSegment
@@ -5161,7 +5161,7 @@ Date,Ngày,module,Magento_GiftCardAccount
 Action,"Thao tác",module,Magento_GiftCardAccount
 "Balance Change","Thay đổi số dư",module,Magento_GiftCardAccount
 Balance,"Số dư",module,Magento_GiftCardAccount
-"More Information","Thêm thông tin",module,Magento_GiftCardAccount
+"More Information","Thông số",module,Magento_GiftCardAccount
 Information,"Thông tin",module,Magento_GiftCardAccount
 "Gift Card Code","Mã thẻ quà tặng",module,Magento_GiftCardAccount
 Status,"Tình trạng",module,Magento_GiftCardAccount
@@ -6378,7 +6378,7 @@ Action,"Thao tác",module,Magento_Logging
 Username,"Tên đăng nhập",module,Magento_Logging
 Result,"Kết quả",module,Magento_Logging
 "Full Action Name","Tên đầy đủ hành động",module,Magento_Logging
-Details,"Chi tiết",module,Magento_Logging
+Details,"Mô tả sản phẩm",module,Magento_Logging
 "Full Details","Đầy đủ chi tiết",module,Magento_Logging
 Partners,"Đối tác",module,Magento_Marketplace
 "Magento Marketplace","Magento Marketplace",module,Magento_Marketplace
@@ -8009,7 +8009,7 @@ Views,"Lượng xem",module,Magento_Reports
 "Reviews for %1","Nhận xét về %1",module,Magento_Reports
 Customer,"Khách hàng",module,Magento_Reports
 Title,"Tiêu đề",module,Magento_Reports
-Detail,"Chi tiết",module,Magento_Reports
+Detail,"Mô tả sản phẩm",module,Magento_Reports
 Created,"Đã tạo",module,Magento_Reports
 "Products Reviews","Đánh giá sản phẩm",module,Magento_Reports
 "Products Bestsellers Report","Báo cáo Sản phẩm bán chạy nhất",module,Magento_Reports
@@ -8088,12 +8088,12 @@ Reports,"Báo cáo",module,Magento_Reports
 "Product Views Report","Báo cáo lượt xem Sản phẩm",module,Magento_Reports
 "An error occurred while showing the product views report. Please review the log and try again.","Lỗi xảy ra trong khi hiển thị báo cáo lượt xem sản phẩm. Xin vui lòng xem lại các bản ghi và thử lại.",module,Magento_Reports
 Review,"Đánh giá",module,Magento_Reports
-Reviews,"Các đánh giá",module,Magento_Reports
+Reviews,"Nhận xét",module,Magento_Reports
 "Customers Report","Báo cáo khách hàng",module,Magento_Reports
 "Customer Reviews Report","Báo cáo đánh giá Khách hàng",module,Magento_Reports
 "Product Reviews Report","Báo cáo đánh giá Sản phẩm",module,Magento_Reports
 "Product Reviews","Đánh giá sản phẩm",module,Magento_Reports
-Details,"Chi tiết",module,Magento_Reports
+Details,"Mô tả sản phẩm",module,Magento_Reports
 Sales,"Doanh số",module,Magento_Reports
 "Bestsellers Report","Báo cáo bán chạy nhất",module,Magento_Reports
 Coupons,"Phiếu giảm giá",module,Magento_Reports
@@ -8246,7 +8246,7 @@ Websites,"Các trang web",module,Magento_Review
 "Product: ""%1"" reviewed by: %2","Sản phẩm: ""%1"" được đánh giá bởi: %2",module,Magento_Review
 "Pending Reviews RSS","Đang chờ giải quyết giá RSS",module,Magento_Review
 "Reviews %1","đánh Giá %1",module,Magento_Review
-Reviews,"Các đánh giá",module,Magento_Review
+Reviews,"Nhận xét",module,Magento_Review
 "The review has been deleted.","đánh giá đã bị xóa.",module,Magento_Review
 "Something went wrong  deleting this review.","Một cái gì đó đã đi sai xoá nhận xét này.",module,Magento_Review
 "Customer Reviews","Khách hàng đánh giá",module,Magento_Review
@@ -8536,7 +8536,7 @@ Approved,"Chấp thuận",module,Magento_Rma
 "Return Reason","Những lý do trả lại",module,Magento_Rma
 "Item Condition","điều kiện sản phẩm",module,Magento_Rma
 Resolution,"Độ phân giải",module,Magento_Rma
-Details,"Chi tiết",module,Magento_Rma
+Details,"Mô tả sản phẩm",module,Magento_Rma
 Split,Tách,module,Magento_Rma
 Action,"Thao tác",module,Magento_Rma
 "Return Information","Thông tin Trả lại",module,Magento_Rma
