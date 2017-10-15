@@ -1511,7 +1511,7 @@ None,"Không cái nào",module,Magento_Catalog
 "Manage Categories","Quản lý danh mục",module,Magento_Catalog
 "You deleted the category.","Bạn đã xoá mục này.",module,Magento_Catalog
 "Something went wrong while trying to delete the category.","Một điều gì đó đã đi sai trong khi đang cố gắng để xóa mục này.",module,Magento_Catalog
-Categories,Danh mục,module,Magento_Catalog
+Categories,"Danh mục",module,Magento_Catalog
 "Category is not available for requested store.","Mục không có sẵn cho các cửa hàng được yêu cầu.",module,Magento_Catalog
 "There was a category move error.","Đã có một lỗi di chuyển mục.",module,Magento_Catalog
 "You moved the category.","Bạn đã chuyển mục này.",module,Magento_Catalog
@@ -2133,7 +2133,7 @@ Events,"Sự kiện",module,Magento_CatalogEvent
 "Back to Category","Quay lại nhóm",module,Magento_CatalogEvent
 "Edit Catalog Event","Chỉnh sửa các danh mục sự kiện",module,Magento_CatalogEvent
 "Catalog Event Information","Thông tin Danh mục sự kiện",module,Magento_CatalogEvent
-Category,Nhóm,module,Magento_CatalogEvent
+Category,"Danh mục",module,Magento_CatalogEvent
 "Start Date","Ngày bắt đầu",module,Magento_CatalogEvent
 "End Date","Ngày kết thúc",module,Magento_CatalogEvent
 Image,"Hình ảnh",module,Magento_CatalogEvent
@@ -2469,7 +2469,7 @@ Relevance,"Mức độ liên quan",module,Magento_CatalogSearch
 "%1 and greater","%1 và cao hơn",module,Magento_CatalogSearch
 "up to %1","lên đến %1",module,Magento_CatalogSearch
 ". "" which is inconsistent with state of scope resolver""",". "" which is inconsistent with state of scope resolver""",module,Magento_CatalogSearch
-Category,Nhóm,module,Magento_CatalogSearch
+Category,"Danh mục",module,Magento_CatalogSearch
 "%1 and above","%1 và cao hơn",module,Magento_CatalogSearch
 "%1 - %2","%1 - %2",module,Magento_CatalogSearch
 "Sorry, something went wrong. You can find out more in the error log.","Xin lỗi, cái gì đã đi sai. Bạn có thể tìm hiểu thêm trong Nhật ký lỗi.",module,Magento_CatalogSearch
@@ -8883,7 +8883,7 @@ FALSE,SAI,module,Magento_Rule
 "If %1 of these conditions are %2:","Nếu %1 của những điều kiện này là %2:",module,Magento_Rule
 "Conditions Combination","Kết hợp Điều kiện",module,Magento_Rule
 "Attribute Set","Thiết lập thuộc tính",module,Magento_Rule
-Category,Nhóm,module,Magento_Rule
+Category,"Danh mục",module,Magento_Rule
 "Open Chooser","Chọn mở",module,Magento_Rule
 "Unknown condition operator","Không rõ tình trạng Nhà điều hành",module,Magento_Rule
 "There is no information about associated entity type ""%1"".","Có là không có thông tin về loại hình liên kết thực thể ""%1"".",module,Magento_Rule
@@ -11029,7 +11029,7 @@ Shuffle,"Tạo mới",module,Magento_TargetRule
 "Validate error 1","Xác nhận lỗi 1",module,Magento_TargetRule
 "Validate error 2","Xác nhận lỗi 2",module,Magento_TargetRule
 "Attribute Set","Thiết lập thuộc tính",module,Magento_TargetRule
-Category,Nhóm,module,Magento_TargetRule
+Category,"Danh mục",module,Magento_TargetRule
 "Please choose a condition to add.","Vui lòng chọn một điều kiện để thêm.",module,Magento_TargetRule
 Close,"Đóng lại",module,Magento_TargetRule
 "Rule-based Settings","Cài đặt Dựa trên nguyên tắc",module,Magento_TargetRule
