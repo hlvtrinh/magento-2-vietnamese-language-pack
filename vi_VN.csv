@@ -10168,7 +10168,7 @@ Reports,"Báo cáo",module,Magento_Search
 Delete,Xóa,module,Magento_Search
 "Are you sure you want to delete synonym group with id: %1?","Bạn có chắc bạn muốn xóa bỏ nhóm từ đồng nghĩa với id: %1?",module,Magento_Search
 View/Edit,"Xem/chỉnh sửa",module,Magento_Search
-"Search entire store here...","Tìm toàn bộ cửa hàng ở đây...",module,Magento_Search
+"Search entire store here...","Sản phẩm cần tìm...",module,Magento_Search
 "There are no search terms available.","Không có cụm từ tìm kiếm có sẵn nào.",module,Magento_Search
 "Search Engine","Công cụ tìm kiếm",module,Magento_Search
 CSV,CSV,module,Magento_Search
