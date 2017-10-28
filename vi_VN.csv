@@ -3327,6 +3327,7 @@ Name,Tên,module,Magento_Contact
 Email,Email,module,Magento_Contact
 "Phone Number","Số Điện thoại",module,Magento_Contact
 "What’s on your mind?","Bạn đang nghĩ gì?",module,Magento_Contact
+"MAP","BẢN ĐỒ",module,Magento_Contact
 Submit,Gửi,module,Magento_Contact
 "Contact Form","Mẫu liên hệ",module,Magento_Contact
 Phone,Phone,module,Magento_Contact
