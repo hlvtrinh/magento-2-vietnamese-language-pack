@@ -6472,7 +6472,7 @@ Phone,"Điện thoại",module,Magento_MultipleLocationInventory
 Fax,Fax,module,Magento_MultipleLocationInventory
 Wishlist,"Danh sách yêu thích",module,Magento_MultipleWishlist
 "Customer's Wish List Report","Báo cáo danh sách yêu thích của khách hàng",module,Magento_MultipleWishlist
-"My Wish Lists","Danh sách yêu thích của tôi",module,Magento_MultipleWishlist
+"My Wish Lists","Danh sách yêu thích",module,Magento_MultipleWishlist
 "1 item in wish list","1 sản phẩm trong danh sách yêu thích",module,Magento_MultipleWishlist
 "%1 items in wish list","%1 sản phẩm trong danh sách yêu thích",module,Magento_MultipleWishlist
 "Wish List Search","Tìm kiếm danh sách yêu thích",module,Magento_MultipleWishlist
@@ -12458,7 +12458,7 @@ Conditions,"Điều kiện",module,Magento_Widget
 "Widget ID","Widget ID",module,Magento_Widget
 "Wish List","Danh sách mong muốn",module,Magento_Wishlist
 "Wish List Sharing","Chia sẻ danh sách yêu thích",module,Magento_Wishlist
-"My Wish List","Danh sách yêu thích của tôi",module,Magento_Wishlist
+"My Wish List","Danh sách yêu thích",module,Magento_Wishlist
 "%1's Wish List","Danh sách yêu thích của %1",module,Magento_Wishlist
 "Page not found.","Không tìm thấy trang.",module,Magento_Wishlist
 "We can't specify a product.","Chúng tôi không thể chỉ định một sản phẩm.",module,Magento_Wishlist
