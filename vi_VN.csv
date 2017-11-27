@@ -12692,3 +12692,5 @@ Footer,Footer,theme,frontend/Magento/luma
 "Account Dashboard","Trang tổng quan tài khoản",theme,frontend/Magento/luma
 "Address Book","Thêm thông tin địa chỉ",theme,frontend/Magento/luma
 "Account Information","Thông tin tài khoản",theme,frontend/Magento/luma
+"Added successfully!","Thêm sản phẩm thành công",module,Magento_Checkout
+"Go To Checkout","Tiến hành đặt hàng",module,Magento_Checkout
