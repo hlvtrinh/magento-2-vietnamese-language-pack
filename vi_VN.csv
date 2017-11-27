@@ -3430,7 +3430,7 @@ Email,Email,module,Magento_CustomAttributeManagement
 "You aren't subscribed to our newsletter.","You aren't subscribed to our newsletter.",module,Magento_Customer
 "You have not set a default shipping address.","Bạn không có thiết lập địa chỉ vận chuyển mặc định.",module,Magento_Customer
 "You have not set a default billing address.","Bạn không có thiết lập địa chỉ vận chuyển mặc định.",module,Magento_Customer
-"Address Book","Sổ địa chỉ",module,Magento_Customer
+"Address Book","Thêm thông tin địa chỉ",module,Magento_Customer
 "Edit Address","Sửa địa chỉ",module,Magento_Customer
 "Add New Address","Thêm địa chỉ mới",module,Magento_Customer
 region,"khu vực",module,Magento_Customer
@@ -9071,7 +9071,7 @@ Value,"Giá trị",module,Magento_Sales
 "Back to My Orders","Quay lại đơn đặt hàng của tôi",module,Magento_Sales
 "View Another Order","Xem một đơn đặt hàng",module,Magento_Sales
 "About Your Refund","Về hoàn phí của bạn",module,Magento_Sales
-"My Orders","Đơn đặt hàng của tôi",module,Magento_Sales
+"My Orders","Lịch sử đơn hàng",module,Magento_Sales
 "Subscribe to Order Status","Theo dõi tình trạng đơn hàng",module,Magento_Sales
 "About Your Invoice","Về hoá đơn của bạn",module,Magento_Sales
 "Print Order # %1","In đơn đặt hàng # %1",module,Magento_Sales
@@ -12630,8 +12630,8 @@ Debug,"Sửa Lỗi",module,Magento_Worldpay
 "Your payment has been successfully processed by our shop system.","Thanh toán của bạn đã được xử lý thành công bởi hệ thống cửa hàng của chúng tôi.",module,Magento_Worldpay
 Summary,"Tóm tắt",theme,frontend/Magento/blank
 "Account Dashboard","Trang tổng quan tài khoản",theme,frontend/Magento/blank
-"Account Information","Thông tin tài khoản",theme,frontend/Magento/blank
-"Address Book","Sổ địa chỉ",theme,frontend/Magento/blank
+"Account Information","Thông tin cá nhân",theme,frontend/Magento/blank
+"Address Book","Thêm thông tin địa chỉ",theme,frontend/Magento/blank
 Menu,Menu,theme,frontend/Magento/blank
 Account,"Tài khoản",theme,frontend/Magento/blank
 Settings,"Cài đặt",theme,frontend/Magento/blank
@@ -12690,5 +12690,5 @@ Footer,Footer,theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Vận chuyển #%shipment_id cho đơn hàng #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name shipment","Cập Nhật cho %store_name sự gửi hàng của bạn",theme,frontend/Magento/luma
 "Account Dashboard","Trang tổng quan tài khoản",theme,frontend/Magento/luma
-"Address Book","Sổ địa chỉ",theme,frontend/Magento/luma
+"Address Book","Thêm thông tin địa chỉ",theme,frontend/Magento/luma
 "Account Information","Thông tin tài khoản",theme,frontend/Magento/luma
