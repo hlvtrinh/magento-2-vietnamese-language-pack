@@ -12694,3 +12694,8 @@ Footer,Footer,theme,frontend/Magento/luma
 "Account Information","Thông tin tài khoản",theme,frontend/Magento/luma
 "Added successfully!","Thêm sản phẩm thành công",module,Magento_Checkout
 "Go To Checkout","Tiến hành đặt hàng",module,Magento_Checkout
+Qty,SL,module,Magento_Checkout
+Info,"Thông tin",module,Magento_Checkout
+Order,"Đơn hàng",module,Magento_Checkout
+Shipping,"Địa chỉ giao hàng",module,Magento_Checkout
+"Review & Payments","Thanh toán",module,Magento_Checkout
