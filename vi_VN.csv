@@ -1632,7 +1632,7 @@ Center,"Trung tâm",module,Magento_Catalog
 "Please correct the category.","Xin vui lòng chỉnh sửa đúng các loại.",module,Magento_Catalog
 "Must be category model instance or its id.","Phải là thể loại mô hình ví dụ hoặc id của nó.",module,Magento_Catalog
 "The attribute model is not defined.","Các thuộc tính mô hình không được xác định.",module,Magento_Catalog
-Category,"Thể loại",module,Magento_Catalog
+Category,"Sản phẩm",module,Magento_Catalog
 "%1 - %2","%1 - %2",module,Magento_Catalog
 "%1 was not found in algorithms","%1 không được tìm thấy trong các thuật toán",module,Magento_Catalog
 "%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 không mở rộng \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface",module,Magento_Catalog
@@ -2133,7 +2133,7 @@ Events,"Sự kiện",module,Magento_CatalogEvent
 "Back to Category","Quay lại nhóm",module,Magento_CatalogEvent
 "Edit Catalog Event","Chỉnh sửa các danh mục sự kiện",module,Magento_CatalogEvent
 "Catalog Event Information","Thông tin Danh mục sự kiện",module,Magento_CatalogEvent
-Category,"Danh mục",module,Magento_CatalogEvent
+Category,"Sản phẩm",module,Magento_CatalogEvent
 "Start Date","Ngày bắt đầu",module,Magento_CatalogEvent
 "End Date","Ngày kết thúc",module,Magento_CatalogEvent
 Image,"Hình ảnh",module,Magento_CatalogEvent
@@ -2469,7 +2469,7 @@ Relevance,"Mức độ liên quan",module,Magento_CatalogSearch
 "%1 and greater","%1 và cao hơn",module,Magento_CatalogSearch
 "up to %1","lên đến %1",module,Magento_CatalogSearch
 ". "" which is inconsistent with state of scope resolver""",". "" which is inconsistent with state of scope resolver""",module,Magento_CatalogSearch
-Category,"Danh mục",module,Magento_CatalogSearch
+Category,"Sản phẩm",module,Magento_CatalogSearch
 "%1 and above","%1 và cao hơn",module,Magento_CatalogSearch
 "%1 - %2","%1 - %2",module,Magento_CatalogSearch
 "Sorry, something went wrong. You can find out more in the error log.","Xin lỗi, cái gì đã đi sai. Bạn có thể tìm hiểu thêm trong Nhật ký lỗi.",module,Magento_CatalogSearch
@@ -8884,7 +8884,7 @@ FALSE,SAI,module,Magento_Rule
 "If %1 of these conditions are %2:","Nếu %1 của những điều kiện này là %2:",module,Magento_Rule
 "Conditions Combination","Kết hợp Điều kiện",module,Magento_Rule
 "Attribute Set","Thiết lập thuộc tính",module,Magento_Rule
-Category,"Danh mục",module,Magento_Rule
+Category,"Sản phẩm",module,Magento_Rule
 "Open Chooser","Chọn mở",module,Magento_Rule
 "Unknown condition operator","Không rõ tình trạng Nhà điều hành",module,Magento_Rule
 "There is no information about associated entity type ""%1"".","Có là không có thông tin về loại hình liên kết thực thể ""%1"".",module,Magento_Rule
@@ -11030,7 +11030,7 @@ Shuffle,"Tạo mới",module,Magento_TargetRule
 "Validate error 1","Xác nhận lỗi 1",module,Magento_TargetRule
 "Validate error 2","Xác nhận lỗi 2",module,Magento_TargetRule
 "Attribute Set","Thiết lập thuộc tính",module,Magento_TargetRule
-Category,"Danh mục",module,Magento_TargetRule
+Category,"Sản phẩm",module,Magento_TargetRule
 "Please choose a condition to add.","Vui lòng chọn một điều kiện để thêm.",module,Magento_TargetRule
 Close,"Đóng lại",module,Magento_TargetRule
 "Rule-based Settings","Cài đặt Dựa trên nguyên tắc",module,Magento_TargetRule
@@ -12698,4 +12698,5 @@ Qty,SL,module,Magento_Checkout
 Info,"Thông tin",module,Magento_Checkout
 Order,"Đơn hàng",module,Magento_Checkout
 Shipping,"Địa chỉ giao hàng",module,Magento_Checkout
+"Review & Payments","Thanh toán",module,Magento_Checkout
 "Review & Payments","Thanh toán",module,Magento_Checkout
