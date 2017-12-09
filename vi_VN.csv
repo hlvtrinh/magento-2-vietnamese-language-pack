@@ -2469,7 +2469,7 @@ Relevance,"Mức độ liên quan",module,Magento_CatalogSearch
 "%1 and greater","%1 và cao hơn",module,Magento_CatalogSearch
 "up to %1","lên đến %1",module,Magento_CatalogSearch
 ". "" which is inconsistent with state of scope resolver""",". "" which is inconsistent with state of scope resolver""",module,Magento_CatalogSearch
-Category,"Sản phẩm",module,Magento_CatalogSearch
+Category,"Danh mục",module,Magento_CatalogSearch
 "%1 and above","%1 và cao hơn",module,Magento_CatalogSearch
 "%1 - %2","%1 - %2",module,Magento_CatalogSearch
 "Sorry, something went wrong. You can find out more in the error log.","Xin lỗi, cái gì đã đi sai. Bạn có thể tìm hiểu thêm trong Nhật ký lỗi.",module,Magento_CatalogSearch
