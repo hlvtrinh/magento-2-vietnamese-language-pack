@@ -85,7 +85,7 @@ Quantity,"Số lượng",module,Magento_AdvancedCheckout
 "Last ordered items (%1)","Last ordered items (%1)",module,Magento_AdvancedCheckout
 Products,"Sản phẩm",module,Magento_AdvancedCheckout
 ID,ID,module,Magento_AdvancedCheckout
-SKU,SKU,module,Magento_AdvancedCheckout
+SKU,CODE,module,Magento_AdvancedCheckout
 "Recently Compared Products (%1)","Recently Compared Products (%1)",module,Magento_AdvancedCheckout
 "Recently Viewed Products (%1)","Recently Viewed Products (%1)",module,Magento_AdvancedCheckout
 "Add to Shopping Cart by SKU","Add to Shopping Cart by SKU",module,Magento_AdvancedCheckout
@@ -182,7 +182,7 @@ Edit,"Chỉnh sửa",module,Magento_AdvancedCheckout
 "Remove item","Xóa sản phẩm",module,Magento_AdvancedCheckout
 "Products Requiring Attention","Products Requiring Attention",module,Magento_AdvancedCheckout
 "Add to Cart","Mua ngay",module,Magento_AdvancedCheckout
-Sku,Sku,module,Magento_AdvancedCheckout
+Sku,Code,module,Magento_AdvancedCheckout
 File,Tệp,module,Magento_AdvancedCheckout
 "File extensions allowed: .csv","File extensions allowed: .csv",module,Magento_AdvancedCheckout
 "Add Row","Add Row",module,Magento_AdvancedCheckout
@@ -1194,7 +1194,7 @@ Close,Close,module,Magento_Bundle
 "What are you looking for?","Bạn đang tìm kiếm gì?",module,Magento_Bundle
 ID,ID,module,Magento_Bundle
 Product,"Sản phẩm",module,Magento_Bundle
-SKU,SKU,module,Magento_Bundle
+SKU,CODE,module,Magento_Bundle
 Price,Giá,module,Magento_Bundle
 Delete,Xóa,module,Magento_Bundle
 "Use Default Value","Dùng giá trị mặc định",module,Magento_Bundle
