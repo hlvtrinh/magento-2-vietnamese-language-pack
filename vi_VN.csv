@@ -6231,7 +6231,7 @@ Position,"Vị trí",module,Magento_LayeredNavigation
 "Position of attribute in layered navigation block.","Vị trí của các thuộc tính trong khối danh mục chính.",module,Magento_LayeredNavigation
 item,"sản phẩm",module,Magento_LayeredNavigation
 items,"sản phẩm",module,Magento_LayeredNavigation
-"Now Shopping by","Bây giờ mua sắm bằng",module,Magento_LayeredNavigation
+"Now Shopping by","Bộ lọc",module,Magento_LayeredNavigation
 Previous,"Trước đó",module,Magento_LayeredNavigation
 Remove,"Loại bỏ",module,Magento_LayeredNavigation
 "Remove This Item","Loại bỏ sản phẩm này",module,Magento_LayeredNavigation
@@ -12635,7 +12635,7 @@ Summary,"Tóm tắt",theme,frontend/Magento/blank
 Menu,Menu,theme,frontend/Magento/blank
 Account,"Tài khoản",theme,frontend/Magento/blank
 Settings,"Cài đặt",theme,frontend/Magento/blank
-"Now Shopping by","Bây giờ mua sắm bằng",theme,frontend/Magento/luma
+"Now Shopping by","Bộ lọc",theme,frontend/Magento/luma
 Previous,Trước,theme,frontend/Magento/luma
 Remove,"Hủy bỏ",theme,frontend/Magento/luma
 "Remove This Item","Loại bỏ mục này",theme,frontend/Magento/luma
